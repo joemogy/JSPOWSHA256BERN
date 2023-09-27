@@ -3,7 +3,8 @@ const PubNub = require('pubnub');
 const credentials = {
   publishKey: 'pub-c-0d94e644-b3c5-46a3-8766-9481da5fa958',
   subscribeKey: 'sub-c-d9a8ef89-b8e2-4cae-9881-b903751af430',
-  secretKey: 'sec-c-ZWQ3YjZlOGMtZjU2Yy00N2ZiLTg1MmItMjY3ZjMxM2JlOTUw'
+  secretKey: 'sec-c-ZWQ3YjZlOGMtZjU2Yy00N2ZiLTg1MmItMjY3ZjMxM2JlOTUw',
+  uuid: 'f6c3f3a0-8f0f-4a1e-8e5d-2c6f5d6b9a6d'
 };
 
 const CHANNELS = {
